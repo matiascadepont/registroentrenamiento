@@ -1,0 +1,9 @@
+{
+  "name": "Entreno",
+  "short_name": "Entreno",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f3d38",
+  "theme_color": "#0f3d38"
+}
